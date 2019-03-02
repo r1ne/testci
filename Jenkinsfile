@@ -13,7 +13,7 @@ pipeline {
         }
         stage('hello world!!') {
             steps {
-                sh 'this is just a test'
+                sh 'jenkins rabotay'
             }
         }
     }
